@@ -5,7 +5,6 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A full-stack Machine Learning application designed to assess and predict mental health impact scores for students based on their social media habits, screen time, physical activity, sleep patterns, and academic stress levels.
 
@@ -151,16 +150,3 @@ npm install
 npm run dev
 ```
 *Open `http://localhost:5173` in your browser to view the interactive application.*
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/Mudit024/mental_heath_predicator/issues).
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
